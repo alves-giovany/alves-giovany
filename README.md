@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[alves-giovany]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/alves-giovany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:giovany.data@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <!-- <img src="https://img.shields.io/badge/Aberto_a_oportunidades-2EA44F?style=for-the-badge" alt="Aberto a oportunidades" /> -->
 </p>
